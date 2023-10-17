@@ -6,7 +6,7 @@ using GitHub for development, maintenance & publishing portfolio website
 ### Tooling:
 - Hardware Acer
 - OS Linux Mint
-- Template responsive Read Only by @ajlkn http://html5up.net
+- Pre-Built Read Only by @ajlkn http://html5up.net
 - Language HTML5, CSS3
 - Editor Sublime Text & Prettier
 - Platform GitHub & GitHub Pages
