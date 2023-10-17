@@ -12,4 +12,4 @@ using GitHub for development, maintenance & publishing portfolio website
 - Platform GitHub & GitHub Pages
 - Sitemap generator www.xml-sitemaps.com
 - Add to Google Search via http://www.google.com/ping?sitemap=https://rektorik.nl/sitemap.xml
-- Source https://www.summertime.tech/theweb24.html
+- Source https://www.webteam.tech
