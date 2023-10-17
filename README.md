@@ -1,9 +1,9 @@
-### Stepan Rektorik
+# Stepan Rektorik
 
 Dutch architect with NL The Hague office,
 using GitHub for development, maintenance & publishing portfolio website  
 
-## Tooling:
+### Tooling:
 - Hardware Acer
 - OS Linux Mint
 - Template responsive Read Only by @ajlkn http://html5up.net
