@@ -1,6 +1,6 @@
 # Stepan Rektorik
 
-Dutch architect with NL The Hague office,
+Dutch architect
 using GitHub for development, maintenance & publishing portfolio website  
 
 ### Tooling:
