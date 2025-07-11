@@ -3,6 +3,8 @@
 Dutch architect
 using GitHub for development, maintenance & publishing portfolio website  
 
+## Credits
+
 Content & Images:
   Stepan Rektorik
   Johan van Nispen tot Sevenaer
